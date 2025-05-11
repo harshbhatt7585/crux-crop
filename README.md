@@ -8,22 +8,22 @@
 
 ### 1. Clone the Repository
 
-\`\`\`bash
+```bash
 git clone https://github.com/harshbhatt7585/crux-crop.git
 cd crux-crop
-\`\`\`
+```
 
 ### 2. Install Dependencies
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### 3. Run the Cropper
 
-\`\`\`bash
+```bash
 python run.py <video_path> <output_path>
-\`\`\`
+```
 
 You can also customize behavior using optional flags (e.g., crop size, smoothness, etc.). Run \`python run.py --help\` for the full list.
 
