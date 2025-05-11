@@ -4,6 +4,23 @@
 
 ---
 
+<table>
+  <tr>
+    <th>Original Video</th>
+    <th>Cropped Video</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="examples/original.gif" width="300"/>
+      <br><em>Aspect Ratio: 16:9</em> <!-- Example aspect ratio for the original video -->
+    </td>
+    <td>
+      <img src="examples/output_video.gif" width="300"/>
+      <br><em>Aspect Ratio: 9:16</em> <!-- Example aspect ratio for the cropped video -->
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
